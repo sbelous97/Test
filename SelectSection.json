@@ -3,21 +3,21 @@
     "id": 0,
     "name": "Thinking",
     "year": "1994",
-    "image": "https://2.downloader.disk.yandex.ru/preview/809383052923a1603962264f224884363c40988c331d7cb4de3ddc6987ae6f02/inf/blpLeOz_YHSXmAfQQC3PSPOXrxHloQTQT1tpxCrjcgd1IjTE_iJCsHGWZSPtR_zx7hhfACnzPHBi5jAqjwAlMg%3D%3D?uid=522260180&filename=1.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&size=1898x942",
+    "image": "https://github.com/sbelous97/Test/blob/master/1.jpg?raw=true",
     "info": ""
   },
   {
     "id": 1,
     "name": "Memory",
     "year": "2008",
-    "image": "https://3.downloader.disk.yandex.ru/preview/5ae0a91f87e192fd57f3fb3324b4138a64c23827b826b72c4af9a22343ee38d3/inf/zQx5Bcw4JkchsCwzptJ4h_OXrxHloQTQT1tpxCrjcgfN6aPP02k_qbGHy0EWa6_2ttS3ck3oz-VyukOjCG6UJA%3D%3D?uid=522260180&filename=2.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&size=1898x942",
+    "image": "https://github.com/sbelous97/Test/blob/master/2.jpg?raw=true",
     "info": ""
   },
   {
     "id": 2,
     "name": "Stargate: Continuum",
     "year": "2008",
-    "image": "https://3.downloader.disk.yandex.ru/preview/fb8fc546275ab21891c0e88c96c8b986912699e4664e2fb0008e03ffed266309/inf/2sZT0A01RO5boACmaSHJzsG4SrmTlQ8S9klnNqOWHJluC9dvv83l86y6d8RrhMPa-i8IsBRbfittBRkf4px-nQ%3D%3D?uid=522260180&filename=3.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&size=1898x942",
+    "image": "https://github.com/sbelous97/Test/blob/master/3.jpg?raw=true",
     "info": ""
   }
 ]
